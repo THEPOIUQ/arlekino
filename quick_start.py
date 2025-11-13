@@ -172,13 +172,13 @@ class QuickStart:
         self.open_dashboard()
         
         # Monitor system
-        print("\\n" + "="*60)
+        print("\\n" + "=" * 60)
         print("SHADOW C2 SYSTEM DEPLOYED SUCCESSFULLY!")
-        print("="*60)
-        print(""
+        print("=" * 60)
+        print("")
         print("🎯 What you can do now:")
         print("   • View beacons in the dashboard")
-        print("   • Send commands to connected beacons") 
+        print("   • Send commands to connected beacons")
         print("   • Monitor system activity")
         print("   • Access all C2 features")
         print("")
