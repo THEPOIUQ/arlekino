@@ -184,8 +184,9 @@ class QuickStart:
             print("[!] Warning: Beacon failed to start")
 
         self.open_dashboard()
-
-        print("\n" + "=" * 60)
+        
+        # Monitor system
+        print("\\n" + "=" * 60)
         print("SHADOW C2 SYSTEM DEPLOYED SUCCESSFULLY!")
         print("=" * 60)
         print("")
